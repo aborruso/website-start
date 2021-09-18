@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+remote_theme: "pages-themes/primer"
+title: Un repository per creare in un attimo un semplice sito web
+description: Un repository per creare in un attimo un semplice sito web
+lang: it-IT
